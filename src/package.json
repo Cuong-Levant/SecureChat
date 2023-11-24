@@ -1,7 +1,7 @@
 {
   "name": "secure_chat",
   "version": "0.0.2",
-  "description": "Realtime secure chat system",
+  "description": "chat system",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
     "chat",
     "system"
   ],
-  "author": "Behzad Khosravifar <behzad.khosravifar@gmail.com>",
+  "author": "thanks to the author of the tutorial",
   "license": "GNU",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.1.0",
